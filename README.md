@@ -1,6 +1,6 @@
 <h2> Olá, Dev <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> </h2>
 
-Sou Matheus, tenho 22 anos, moro em Vitória/ES e sou apaixonado por tecnologia e games! <br>
+Sou Matheus, tenho 23 anos, moro em Vitória/ES e sou apaixonado por tecnologia e games! <br>
 Desenvolvedor Web Front-End.<br>
 
 <div>
