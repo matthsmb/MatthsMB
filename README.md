@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=2500&pause=1000&color=00C31ECF&vCenter=true&width=800&lines=HELLO!+%3AD...;My+name+is+Matheus...;Be+Welcome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=2500&pause=1000&color=00C31ECF&vCenter=true&width=800&lines=HELLO!+%3AD...;My+name+is+Matheus...;Be+Welcome!)](https://git.io/typing-svg)
 <img alt="Night Coding" width=20% src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
 
