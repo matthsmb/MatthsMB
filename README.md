@@ -3,9 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=00C31ECF&vCenter=true&width=800&height=40&lines=HELLO!+%3AD...;My+name+is+Matheus...;Be+Welcome!)](https://git.io/typing-svg)
 
 <div widht=100% height=10%>
-<img alt="Night Coding" width=25% height=100% src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
-<a href="https://github.com/matthsmb"><img alt="my github profile" width="10%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-<a href="https://www.linkedin.com/in/matheusmb/"><img alt="linkedin" width="10%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+ <img alt="Night Coding" width=25% height=100% src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+ <a href="https://github.com/matthsmb"><img alt="my github profile" width="12%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+ <a href="https://www.linkedin.com/in/matheusmb/"><img alt="my linkedin profile" width="12%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </div>
 
 
