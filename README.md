@@ -7,9 +7,15 @@
  <a href="https://github.com/matthsmb"><img alt="my github profile" align="right" width="12%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
  <a href="https://www.linkedin.com/in/matheusmb/"><img alt="my linkedin profile" align="right" width="12%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div widht=100% align="center">
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=matthsmb&theme=nord&no-frame=false&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
  ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -17,21 +23,10 @@
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 
-
 ### Studying in this moment:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-<p>
- 
-![trophy](https://github-profile-trophy.vercel.app/?username=fadyehabamer&margin-w=15theme=dark)
-    
-</p>
-
-
-
 
 ### 🛠 &nbsp;Tech Stack
 
