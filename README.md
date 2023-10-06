@@ -7,17 +7,17 @@
  <a href="https://github.com/matthsmb"><img alt="my github profile" align="right" width="12%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
  <a href="https://www.linkedin.com/in/matheusmb/"><img alt="my linkedin profile" align="right" width="12%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div widht=100% align="center">
-
- [![trophy](https://github-profile-trophy.vercel.app/?username=matthsmb&theme=nord&no-frame=false&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
+<div align="center">  
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=matthsmb&show_icons=true&count_private=true&hide_border=true&theme=nord" alt="Matheus Martinelle Barros GitHub Stat's" />
+ <img width="45%" height="195px" src="https://github-profile-trophy.vercel.app/?username=matthsmb&theme=nord&no-frame=true&row=2&column=4&margin-w=10" alt="Matheus Martinelle Barros GitHub Stat's" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
- ### Main skills:
+### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
