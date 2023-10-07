@@ -57,8 +57,10 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/> 
+<img alt="Color gif" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710"/>
+<img alt="Matheus Martinelle Barros GitHub Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=matthsmb&theme=nord&hide_border=true&height=300" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
+<img alt="Color gif" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<img alt="Color gif" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer" />
