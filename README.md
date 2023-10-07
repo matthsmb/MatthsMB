@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=00C31ECF&vCenter=true&width=800&height=40&lines=HELLO!+%3AD...;My+name+is+Matheus...;Be+Welcome!"/>
 
 <div widht=100%>
- <img alt="Night Coding" width=25% src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+ <img alt="Night Coding" width=25% height="180px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
  <a href="https://github.com/matthsmb"><img alt="my github profile" align="right" width="15%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
  <a href="https://www.linkedin.com/in/matheusmb/"><img alt="my linkedin profile" align="right" width="15%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </div>
