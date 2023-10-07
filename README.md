@@ -4,8 +4,8 @@
 
 <div widht=100%>
  <img alt="Night Coding" width=30% height="180px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
- <a href="https://github.com/matthsmb"><img alt="my github profile" align="right" width="15%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
- <a href="https://www.linkedin.com/in/matheusmb/"><img alt="my linkedin profile" align="right" width="15%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+ <a href="https://github.com/matthsmb"><img alt="my github profile" width="15%" vertical-align="middle" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+ <a href="https://www.linkedin.com/in/matheusmb/"><img alt="my linkedin profile" width="15%" vertical-align="middle" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
