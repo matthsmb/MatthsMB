@@ -1,18 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=32&duration=3000&pause=1000&color=00C31ECF&vCenter=true&width=800&height=40&lines=HELLO!+%3AD...;My+name+is+Matheus...;Be+Welcome!)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=00C31ECF&vCenter=true&width=800&height=40&lines=HELLO!+%3AD...;My+name+is+Matheus...;Be+Welcome!"/>
 
-<div widht=100% height=10%>
- <img alt="Night Coding" width=25% height=100% src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
- <a href="https://github.com/matthsmb"><img alt="my github profile" align="right" width="12%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
- <a href="https://www.linkedin.com/in/matheusmb/"><img alt="my linkedin profile" align="right" width="12%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+<div widht=100%>
+ <img alt="Night Coding" width=25% src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif"/>
+ <a href="https://github.com/matthsmb"><img alt="my github profile" align="right" width="15%" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+ <a href="https://www.linkedin.com/in/matheusmb/"><img alt="my linkedin profile" align="right" width="15%" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div>  
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=matthsmb&show_icons=true&count_private=true&hide_border=true&theme=nord" alt="Matheus Martinelle Barros GitHub Stat's" />
- <img width="50%" src="https://github-profile-trophy.vercel.app/?username=matthsmb&theme=nord&no-frame=true&row=2&column=5&margin-w=1&margin-h=1" alt="Matheus Martinelle Barros GitHub Trophies" />
+<div align="right">  
+ <img alt="Matheus Martinelle Barros GitHub Stat's" src="https://github-readme-stats.vercel.app/api?username=matthsmb&show_icons=true&count_private=true&hide_border=true&theme=nord"/>
+ <img alt="Matheus Martinelle Barros GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=matthsmb&theme=nord&no-frame=true&row=2&column=4&margin-w=1&margin-h=1"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
