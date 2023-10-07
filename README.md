@@ -10,9 +10,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="right">  
- <img alt="Matheus Martinelle Barros GitHub Stat's" src="https://github-readme-stats.vercel.app/api?username=matthsmb&show_icons=true&count_private=true&hide_border=true&theme=nord"/>
- <img alt="Matheus Martinelle Barros GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=matthsmb&theme=nord&no-frame=true&row=2&column=4&margin-w=1&margin-h=1"/>
+<div align="middle">  
+ <img alt="Matheus Martinelle Barros GitHub Stat's" height="175px" src="https://github-readme-stats.vercel.app/api?username=matthsmb&show_icons=true&count_private=true&hide_border=true&theme=nord"/>
+ <img alt="Matheus Martinelle Barros GitHub Trophies" height="175px" src="https://github-profile-trophy.vercel.app/?username=matthsmb&theme=nord&no-frame=true&row=2&column=4"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
