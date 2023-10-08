@@ -3,7 +3,7 @@
 <img alt="Texts in SVG" src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=30&duration=3000&pause=1000&color=32CD32&vCenter=true&width=800&height=40&lines=HELLO!+%3AD...;My+name+is+Matheus...;Be+Welcome!" />
 
 <div widht=100%>
- <img alt="Night Coding" width=30% height="175px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+ <img alt="Night Coding" width=35% height="175px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
  <a href="https://www.linkedin.com/in/matheusmb/">
   <img alt="Link to my LinkedIn profile" width="18%" height="160px" align="right" src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
  </a>
