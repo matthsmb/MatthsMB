@@ -5,10 +5,10 @@
 <div widht=100%>
  <img alt="Night Coding" width=30% height="175px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
  <a href="https://www.linkedin.com/in/matheusmb/">
-  <img alt="Link to my LinkedIn profile" width="16%" height="160px" align="right" src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
+  <img alt="Link to my LinkedIn profile" width="18%" height="160px" align="right" src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
  </a>
  <a href="https://github.com/matthsmb">
-  <img alt="Link to my GitHub profile" width="16%" height="160px" align="right" src="https://img.icons8.com/clouds/100/000000/github.png" />
+  <img alt="Link to my GitHub profile" width="18%" height="160px" align="right" src="https://img.icons8.com/clouds/100/000000/github.png" />
  </a>
 </div>
 
