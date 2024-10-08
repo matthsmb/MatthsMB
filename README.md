@@ -1,5 +1,5 @@
 <img alt="Color gif" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header" />
-<img alt="Color gif" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
 <div widht=100%>
  <img alt="Night Coding" width=35% height="175px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
  <a href="https://www.linkedin.com/in/matheusmb/">
@@ -9,11 +9,7 @@
   <img alt="Link to my GitHub profile" width="18%" height="160px" align="right" src="https://img.icons8.com/clouds/100/000000/github.png" />
  </a>
 </div>
-<img alt="Color gif" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-<div align="middle">  
- <img alt="Matheus Martinelle Barros GitHub Stat's" height="175px" src="https://github-readme-stats.vercel.app/api?username=matthsmb&show_icons=true&count_private=true&hide_border=true&theme=nord" />
- <img alt="Matheus Martinelle Barros GitHub Trophies" height="175px" src="https://github-profile-trophy.vercel.app/?username=matthsmb&theme=nord&no-frame=true&row=2&column=4&margin-w=5&margin-h=5" />
-</div>
+
 <img alt="Color gif" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 
 ### Main skills:
@@ -42,10 +38,11 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
-<img alt="Color gif" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" /> 
-
-<img alt="Matheus Martinelle Barros GitHub Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=matthsmb&theme=nord&hide_border=true&height=300" />
-
 <img alt="Color gif" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<div align="middle">  
+ <img alt="Matheus Martinelle Barros GitHub Stat's" height="175px" src="https://github-readme-stats.vercel.app/api?username=matthsmb&show_icons=true&count_private=true&hide_border=true&theme=nord" />
+ <img alt="Matheus Martinelle Barros GitHub Trophies" height="175px" src="https://github-profile-trophy.vercel.app/?username=matthsmb&theme=nord&no-frame=true&row=2&column=4&margin-w=5&margin-h=5" />
+</div>
 
 <img alt="Color gif" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer" />
