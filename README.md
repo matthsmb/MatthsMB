@@ -64,7 +64,7 @@ Comecei minha jornada em **2022**, precisei pausar quando a vida apertou, e agor
   <a href="mailto:matthsmb00@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="32px" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/matheusmb/">
+  <a href="https://www.linkedin.com/in/matheusmb/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32px" alt="LinkedIn" />
   </a>
 </p>
