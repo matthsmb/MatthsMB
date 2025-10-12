@@ -1,48 +1,80 @@
-<img alt="Color gif" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=header" />
+# 🍀 Matheus Martinelle Barros
 
-<div widht=100%>
- <img alt="Night Coding" width=35% height="175px" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
- <a href="https://www.linkedin.com/in/matheusmb/">
-  <img alt="Link to my LinkedIn profile" width="18%" height="160px" align="right" src="https://img.icons8.com/clouds/100/000000/linkedin.png" />
- </a>
- <a href="https://github.com/matthsmb">
-  <img alt="Link to my GitHub profile" width="18%" height="160px" align="right" src="https://img.icons8.com/clouds/100/000000/github.png" />
- </a>
+> **Desenvolvedor Full Stack** | em constante evolução <br>
+> *“Codar é minha língua universal.”*
+
+---
+
+## 💻 Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,git,github,vscode,figma" />
+</p>
+
+---
+
+## 🚀 Atualmente
+
+- 🌱 Reforçando fundamentos de **HTML, CSS e JavaScript**  
+- ⚙️ Mantendo uma rotina diária de estudo e prática em **programação**  
+- 🎯 Focando em evoluir com **React** e **Node.js** nos próximos meses
+
+---
+
+## 📂 Projetos
+
+> *Foco em mostrar minha evolução com projetos que refletem aprendizado.*
+
+- [Portfólio](#) *(em desenvolvimento)*
+- [Perfil GitHub](#) *(em desenvolvimento)*
+- [Primeiro Projeto](#) *(em breve)*
+
+---
+
+## 💬 Sobre mim
+
+Olá! Eu sou o **Matheus**, apaixonado em tecnologia e mais ainda por usá-la para ajudar as pessoas. <br>
+Acredito que código é mais do que lógica — é resolver problemas, mas também contar histórias.
+
+Comecei minha jornada em **2022**, precisei pausar quando a vida apertou, e agora, em **2025**, voltei com foco, disciplina e vontade de evoluir como desenvolvedor.
+
+---
+
+## 🎲 Estatísticas da Jornada
+
+<div align="center">  
+  <img 
+    alt="GitHub Stats"
+    height="150px"
+    src="https://github-readme-stats.vercel.app/api?username=matthsmb&count_private=true&show_icons=true&theme=vue-dark&bg_color=00000000&text_color=d3d3d3&hide_border=true&hide_title=true&rank_icon=github&include_all_commits=true" 
+  />
+  <br />
+  <img 
+    alt="GitHub Trophies"
+    height="180px"
+    src="https://github-profile-trophy.vercel.app/?username=matthsmb&theme=onestar&no-frame=true&row=2&column=4&margin-w=5&no-bg=true" 
+  />
 </div>
 
-<img alt="Color gif" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+---
 
-### Main skills:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+## 🌐 Conecte-se comigo
 
-### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<p align="left">
+  <a href="mailto:matthsmb00@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="32px" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/matheusmb/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="32px" alt="LinkedIn" />
+  </a>
+</p>
 
-### 🛠 &nbsp;Tech Stack
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Typescript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+---
 
-<img alt="Color gif" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+<div align="center">
 
-<div align="middle">  
- <img alt="Matheus Martinelle Barros GitHub Stat's" height="175px" src="https://github-readme-stats.vercel.app/api?username=matthsmb&show_icons=true&count_private=true&hide_border=true&theme=nord" />
- <img alt="Matheus Martinelle Barros GitHub Trophies" height="175px" src="https://github-profile-trophy.vercel.app/?username=matthsmb&theme=nord&no-frame=true&row=2&column=4&margin-w=5&margin-h=5" />
+  🖋️ *“Aprendendo, errando e reescrevendo — assim como o código, assim como a vida.”*
+  <br/>
+  <sub>~ Matheus Martinelle Barros</sub>
 </div>
 
-<img alt="Color gif" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer" />
