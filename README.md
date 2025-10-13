@@ -58,23 +58,9 @@ Comecei minha jornada em **2022**, precisei pausar quando a vida apertou, e agor
 
 ---
 
-## 🌐 Conecte-se comigo
-
-<p align="left">
-  <a href="mailto:matthsmb00@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="32px" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/matheusmb/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="32px" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
 <div align="center">
 
   🖋️ *“Aprendendo, errando e reescrevendo — assim como o código, assim como a vida.”*
   <br/>
   <sub>~ Matheus Martinelle Barros</sub>
 </div>
-
