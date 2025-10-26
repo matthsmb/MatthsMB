@@ -57,10 +57,3 @@ Comecei minha jornada em **2022**, precisei pausar quando a vida apertou, e agor
 </div>
 
 ---
-
-<div align="center">
-
-  🖋️ *“Aprendendo, errando e reescrevendo — assim como o código, assim como a vida.”*
-  <br/>
-  <sub>~ Matheus Martinelle Barros</sub>
-</div>
